@@ -11,4 +11,3 @@ This is a deep reinforcement learning-based method that solves an important vari
 * [PyTorch](http://pytorch.org/)>=1.7
 * tqdm
 * tensorboard_logger
-* Matplotlib (optional, only for plotting)
